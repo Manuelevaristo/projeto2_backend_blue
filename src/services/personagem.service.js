@@ -17,7 +17,7 @@ const personagens = [
     personagem: 'Fred',
     descricao:
       'Fred Jones, diferente de Salsicha, é corajoso, sendo o líder do grupo. Sempre ávido por um novo mistério, porém, em certas ocasiões, é lerdo — mesmo assim, não perde a graça. Cria engenhocas para se defender dos inimigos e suas paixões são armadilhas e Daphne Blake. Suas frases preferidas são: "Temos mais um mistério em nossas mãos!", "Vamos cair fora, turma!", "Vamos nos dividir, turma!" e "Vamos nos separar e procurar pistas!".',
-    foto: 'https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/93/73/05/20273851.jpg',
+    imagem: 'https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/93/73/05/20273851.jpg',
     idade: 46,
     nacionalidade: 'Americano',
     carreira: 25,
